@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.AirlineSeatReservation.AirlineSeatReservationTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-05-13T22:12:04.148Z" hostname="Arikas-iMac.local" time="0.019">
+  <properties/>
+  <testcase name="testDisplayReservation()" classname="com.example.AirlineSeatReservation.AirlineSeatReservationTest" time="0.01"/>
+  <testcase name="testReserveSeat()" classname="com.example.AirlineSeatReservation.AirlineSeatReservationTest" time="0.003"/>
+  <system-out><![CDATA[Reservation Details:
+Seat Reserved
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
